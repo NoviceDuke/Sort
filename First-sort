@@ -1,0 +1,31 @@
+<html>
+<head>
+	<title>ssssssss</title>
+<style type="text/css">
+	h1{
+		color: yellow;
+		background-color: lightgreen;
+	}
+</style>
+你好
+</head>
+<body>
+	<!--
+	留言板
+	<textarea>
+	</textarea>
+-->
+	<form>
+	<input type="text"><br><input type="text">	
+	</form>
+	<button>
+	</button>
+	<br>
+	<button>
+	</button>
+	<h1>
+		Hello,World<br>This is a apple.
+	</h1>
+
+</body>
+</html>
